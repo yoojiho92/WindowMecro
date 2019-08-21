@@ -1,0 +1,78 @@
+vk 키 
+0	화살표 왼쪽
+1	화살표 오른쪽
+2 	화살표 위
+3 	화살표 아래	
+4	백스페이스	백스페이스
+5	Tab 키		탭
+6	Clear 키		클리어
+7 	Enter 키		엔터
+8	Shift 키		쉬프트
+9	Control(ctrl) 키	컨트롤
+10	Alt	키	알트 
+11	Pause 키		퍼즈 키
+12	Caps 키		캡스락 키
+13	한글 키
+14	한자 키		
+15	ESC 키		이스케이프
+16	SpaceBar 키	스페이스 바
+17	Page UP 키	페이지 업
+18	Page Down 키	페이지 다운
+19	End	키	엔드
+20	Home	키	홈
+21	Left Arrow 왼쪽 화살표
+22	Up Arrow 위 화살표
+23	Right Arrow 오른쪽 화살표
+24	Down Arrow 아래 화살표	
+25	Select 키		셀렉트
+26	Print 키		프린트
+27	Execute 키	익스큐트
+28	PrintScreen키	프린트 스크린
+29	INSERT 키	인서트
+30	DELETE 키	딜리트
+31	HELP 키		도움말 키
+32	Left Windows 키	왼쪽 윈도우
+33	Right Windows 키	오른쪽 윈도우
+34	Computer Sleep 키	컴퓨터 슬립
+35	Multiplt 키 (곱하기)	곱하기
+36	ADD 키 (더하기)	더하기
+37	SEPARATOR 키
+38	Subtract 키	빼기
+39	Decimal 키	점
+40	Divide 키		나누기
+41	F1 키
+42	F2 키
+43	F3 키
+44	F4 키
+45	F5 키
+46	F6 키
+47	F7 키
+48	F8 키
+49	F9 키
+50	F10 키
+51	F11 키
+52	F12 키
+53	F13 키
+54	F14 키
+55	F15 키
+56	F16 키
+57	F17 키
+58	F18 키
+59	F19 키
+60	F20 키
+61	F21 키
+62	F22 키
+63	F23 키
+64	F24 키			
+65	Num Lock 키	넘 락
+66	Scroll Lock 키	스크롤 락
+67	Left Shift 키	왼쪽 쉬프트
+68	Right Shift 키	오른쪽 쉬프트
+69	Left Control 키	왼쪽 컨트롤
+70	Right Control 키	오른쪽 컨트롤
+71	Left Alt 키	왼쪽 알트
+72	Right Alt 키 	오른쪽 알트
+
+
+
+
